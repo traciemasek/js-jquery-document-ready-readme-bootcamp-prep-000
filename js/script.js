@@ -1,4 +1,4 @@
 $(document).ready(function(){
-  $("#text").append("this is so freaking cool.");  
+  $("#text").append("This is so freaking cool.");  
 })
    
